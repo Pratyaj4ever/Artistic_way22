@@ -1,0 +1,179 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Pacifico&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+#header_menu{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:larger;
+    font-weight:300;
+    font-style:initial;
+}
+
+ 
+ /* #header_carousel{
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    height: 700px;
+    width: 800px;
+ }
+
+  .carousel-inner .carousel-item {
+    height: 500px; 
+  } */
+
+  /* Adjust the width of the carousel inner items */
+  .carousel-inner .carousel-item img {
+    max-width: 100%; 
+    height:auto; 
+  } 
+   
+
+#shop_text {
+    text-align: center;
+    text-transform: inherit;
+    text-overflow: ellipsis;
+text-emphasis:unset;
+font-weight: 400;
+font-display:inherit;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#shop_by_category{
+    margin-left: 150px;
+    margin-top:100px;
+    margin-bottom: 100px;
+
+
+}
+
+#pro_text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+}
+
+.single-product a:hover{
+    color: blue;
+    
+}
+
+.single-product a{
+    color:rgb(10, 191, 241);
+    text-decoration: none;
+}
+
+.feature{
+    background-color: rgb(232, 242, 247);
+    transition: background-color 0.3s ease;
+}
+#col_color:hover{
+    background-color: rgb(123, 230, 192);
+}
+
+.footer_links{
+    font-family: sans-serif;
+}
+
+
+.footer_links a{
+    font-family: "Red Hat Display", sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.footer_links a:hover{
+    color: rgb(8, 19, 235);
+}
+.list{
+    list-style: none;
+}
+
+#navbarNav{
+    justify-content: end;
+}
+
+
+#header_items a{
+    font-family: "Kalam", cursive;
+    font-size: larger;
+    color: black;
+}
+#x a{
+    color: black;
+}
+#f a{
+    color: blue;
+}
+#i a{
+    color: rgb(142, 7, 7);
+}
+#y a{
+    color: rgb(257, 37, 8);
+}
+
+#header_menu {
+    background: linear-gradient(to right, rgb(215, 141, 193), rgb(243, 203, 24)); /* Set gradient from red to blue */
+    background-size: 200% auto;
+}
+
+#footer_section{
+    background-color: rgb(131, 154, 148);
+}
+
+#pro_title{
+    font-family: "Red Hat Display", sans-serif;
+    background: linear-gradient(to right, rgb(150, 214, 72), rgb(227, 72, 160));}
+
+
+#category_list_filter a{
+    text-decoration: none;
+    color: black;
+}
+
+#category_list_filter a:hover{
+    color: rgb(38, 144, 215);
+}
+
+#whatsapp {
+    text-decoration: none;
+    color: rgb(5, 238, 20);
+}
+#call_now{
+    text-decoration: none;
+    color: rgb(13, 130, 247);
+}
+
+#mail{
+    text-decoration: none;
+    color: rgba(230, 15, 15, 0.866);
+}
+
+.about_title{
+    font-family: "Kalam", cursive;
+    font-size: large;
+    color: crimson;
+
+}
+
+.about_text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#testimonial_{
+    background: linear-gradient(to right, rgb(204,12,40), rgb(117,227,72));
+}
+
+.puttu_info a{
+    text-decoration: none;
+    color: initial;
+    margin-right: 10px;
+}
+
+
+
+
+
+/* ----------------------------------------*/     
+
+

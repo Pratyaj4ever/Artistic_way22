@@ -1,0 +1,45 @@
+{
+  "products": {
+    "Paintings": [
+      {
+        "name": "Product 1",
+        "image": "./assets/images/product_1.jpg",
+        "title": "Blue denim shirt yagygh",
+        "category": "Paintings",
+        "rating": 5,
+        "price": 137,
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. ..."
+      }
+    ],
+    "Art & Craft": [
+      {
+        "name": "Product 2",
+        "image": "./assets/images/product_2.jpg",
+        "title": "Product 2 Title",
+        "category": "Art & Craft",
+        "rating": 4,
+        "price": 99,
+        "description": "Product 2 description goes here..."
+      }
+    ],
+    "Fabric Art": [
+      {
+        "name": "Product 2",
+        "image": "./assets/images/product_2.jpg",
+        "title": "Product 2 Title",
+        "category": "Fabric Art",
+        "rating": 4,
+        "price": 99,
+        "description": "Product 2 description goes here..."
+      },
+      {
+        "name": "Product 2",
+        "image": "./assets/images/product_2.jpg",
+        "title": "Product 2 Title",
+        "rating": 4,
+        "price": 99,
+        "description": "Product 2 description goes here..."
+      }
+    ]
+  }
+}
